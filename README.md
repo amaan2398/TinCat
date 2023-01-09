@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinCat is Tinder for Cats.
